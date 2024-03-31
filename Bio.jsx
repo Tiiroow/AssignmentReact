@@ -1,7 +1,7 @@
 import React from 'react'
 
 function Bio() {
-    const name = "Abdimahad"
+    const name = "Tiiroow"
     return (
         <div id='bio'>
             <h2 className='pro'>My Biography.</h2>
